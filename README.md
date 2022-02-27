@@ -1,1 +1,1 @@
-# GoF
+# GoF Patterns in C++
